@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_preorder - parcours binary tree
+ * binary_tree_inorder - parcours binary tree
  * @tree: root node to parcours
  * @func: pointer to call each node
  * Return: 0
